@@ -10,3 +10,4 @@ hello git, hello
 hello git, hello master test conflict 
 hello git, hello  hot-fix test conflict 
 remote test pull remote
+11111111111111  add by lhc
